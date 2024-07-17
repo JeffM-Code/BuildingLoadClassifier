@@ -1,6 +1,6 @@
 ## Building Load Classification<br><br>
 [Model development](https://github.com/JeffM-Code/PortfolioWork/tree/main/ML/BuildingEnergyEfficiency)<br><br>
-[App](https://buildingloadclassifier.streamlit.app/)<br><br>
+[App](https://buildingloadclassifiermodel.streamlit.app/)<br><br>
 
 Enter variables in text boxes to see whether a building with those variables is classified as having a high or low cooling or heating loads, with higher load values translating into higher energy consumption for heating or cooling.<br><br>
 
