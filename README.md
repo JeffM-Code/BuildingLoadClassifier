@@ -35,9 +35,8 @@ Therefore:<br><br>
 $$Low: 0 \leq \text{Load} < 10$$<br>
 $$Medium: 10 \leq \text{Load} < 20$$<br>
 $$High:  20 \leq \text{Load} < 40$$<br>
-$$Very High:  40 \leq \text{Load} \leq 100$$
+$$Very High:  40 \leq \text{Load} \leq 100$$<br><br>
 
-<br>
 ### Expected Model Performance:<br><br>
 ```
 Heating Load Classification Accuracy: 96.75%
