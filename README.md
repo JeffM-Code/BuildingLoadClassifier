@@ -68,3 +68,6 @@ Cooling Load Classification Accuracy: 96.75%
 +--------------+-------------+----------+------------+------------+
 
 ```
+<br>
+
+* Generally, given classification accuracy is relatively high, it should correctly classify the heating or cooling load well most of the time.
