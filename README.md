@@ -22,7 +22,7 @@ Sample data from the training set to test accuracy:<br><br>
 
 <br><br>
 
-#### Model analysis:<br><br>
+### Model analysis:<br><br>
 The code was trained on these thresholds:
 
 ```
