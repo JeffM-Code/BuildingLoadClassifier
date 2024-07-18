@@ -4,7 +4,7 @@
 
 Enter variables in text boxes to see whether a building with those variables is classified as having a high or low cooling or heating loads, with higher load values translating into higher energy consumption for heating or cooling.<br><br>
 
-#### Demonstration:<br><br>
+### Demo:<br><br>
 <img src="example.png" alt="example" width="650"/><br><br>
 
 Sample data from the training set to test accuracy:<br><br>
