@@ -11,7 +11,6 @@ def unzip_model(zip_path, output_name):
     with zipfile.ZipFile(zip_path, 'r') as zip_ref:
         zip_ref.extractall()
     if not os.path.exists(output_name):
-        st.error(f"Failed to find {output_name} after unzipping {zip_path}.")
         return False
     return True
 
@@ -22,7 +21,7 @@ try:
     clf_heating = joblib.load('heating_load_classifier.bin')
     clf_cooling = joblib.load('cooling_load_classifier.bin')
 except Exception as e:
-    st.error(f"Failed to load model: {e}")
+    st.error(f"Model failed to load: {e}")
     st.stop()
 
 features = {
